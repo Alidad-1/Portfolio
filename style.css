@@ -96,6 +96,7 @@ nav ul li a:hover{
 
 
 .hero-section {
+    margin-top:100px;
     height: 85vh;
     width: 90%;
     /* background-color: #FD6F00; */
@@ -554,5 +555,6 @@ border: 2px solid #FD6F00;
     border-top: 1px solid #222;
     padding-top: 10px;
 }
+
 
 
