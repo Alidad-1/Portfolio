@@ -30,8 +30,9 @@ nav {
     align-items: centers;
     font-size: 1.2rem;
     padding: 0.5rem 3rem;
-    position:sticky;
-    top:0px;
+     position: fixed;
+      top: 0px;
+      z-index: 2;
     
 }
 
@@ -553,4 +554,5 @@ border: 2px solid #FD6F00;
     border-top: 1px solid #222;
     padding-top: 10px;
 }
+
 
