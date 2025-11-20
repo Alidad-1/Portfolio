@@ -23,7 +23,7 @@
 }
 
 nav {
-background-color:black;
+background-color:#121212;
     width: 100%;
     display: flex;
     justify-content: space-between;
@@ -555,6 +555,7 @@ border: 2px solid #FD6F00;
     border-top: 1px solid #222;
     padding-top: 10px;
 }
+
 
 
 
